@@ -1,0 +1,14 @@
+# Real database password: never commit
+backend/src/main/resources/application.properties
+
+# Build output and dependencies
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# Editor and OS files
+.vscode/
+.DS_Store
+
+# Extension-generated files
+.github/

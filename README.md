@@ -2,8 +2,6 @@
 
 Full-stack library app: Spring Boot REST API + MySQL backend, React (Vite) admin dashboard.
 
-![Dashboard](docs/screenshots/dashboard.png)
-
 ## Features
 - **Books:** add, edit, delete, search by title, filter by category, view available copies
 - **Members:** register, edit, delete, search by name
